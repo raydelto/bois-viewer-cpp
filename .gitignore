@@ -181,3 +181,15 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+#cocos2d-x
+cocos2d/
+libs/
+bin/
+obj/
+assets/
+gen/
+out/
+.classpath
+.project
+.cproject
